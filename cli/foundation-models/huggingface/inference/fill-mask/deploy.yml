@@ -1,0 +1,5 @@
+name: demo
+model: azureml://registries/HuggingFaceHub/models/bert-base-uncased/labels/latest
+endpoint_name: hf-ep-1683665086
+instance_type: Standard_DS3_v2
+instance_count: 1
